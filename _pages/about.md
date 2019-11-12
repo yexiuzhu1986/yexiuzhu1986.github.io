@@ -1,3 +1,4 @@
+![Editing a markdown file for a talk](/images/500x300.png)
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
