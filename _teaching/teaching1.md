@@ -1,5 +1,5 @@
 ---
-title: "d电磁场1"
+title: "电磁场"
 collection: teaching
 type: "研究生课"
 permalink: /teaching/teaching1
