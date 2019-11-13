@@ -2,9 +2,9 @@
 title: "项目2"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/xiangmu2.md
+permalink: /talks/xiangmu2
 venue: "北理"
-date: 
+date: 2014
 location: ""
 ---
 
