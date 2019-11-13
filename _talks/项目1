@@ -2,12 +2,10 @@
 title: "在研项目1"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/项目1 ##文件夹路径
-venue: "UC San Francisco, Department of Testing" ##赞助方，会议举办方等
-date: 2012-03-01 ##日期
+permalink: /talks/项目1 
+venue: "UC San Francisco, Department of Testing" 
+date: 2012-03-01 
 location:""
 ---
-
-
 
 项目介绍
