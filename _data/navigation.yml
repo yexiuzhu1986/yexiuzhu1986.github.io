@@ -12,5 +12,5 @@ main:
   - title: "学术兼职与荣誉"
     url: /posts/
     
-  - title: "实验室简介及人员"
-    url: /portfolio/
+  #- title: "实验室简介及人员"
+    #url: /portfolio/
