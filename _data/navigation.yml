@@ -6,8 +6,8 @@ main:
   - title: "在研项目"
     url: /talks/    
 
-  - title: "教授课程"
-    url: /teaching/    
+  #- title: "教授课程"
+    #url: /teaching/    
     
   #- title: "学术兼职与荣誉"
     #url: /posts/
